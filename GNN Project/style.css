@@ -1,9 +1,0 @@
-<!-- Dark Mode Toggle Button -->
-<button id="dark-mode-toggle" style="position: fixed; top: 10px; right: 10px; z-index: 1000;">Dark Mode</button>
-<style>
-/* Dark Mode Styles */
-.dark-mode {
-    background-color: #121212;
-    color: #ffffff;
-}
-</style><script>
